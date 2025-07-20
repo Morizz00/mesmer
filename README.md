@@ -61,6 +61,7 @@ TTS: ElevenLabs
 Frontend: HTML, CSS, JavaScript
 
 Hardware: NVIDIA RTX 4050 (GPU inference)
+(Additional features are yet to be added using Golang and Rust right now its mostly unused)
 
 
 
