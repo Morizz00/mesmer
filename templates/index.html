@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mesmer AI</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <div class="main-container">
+    <!-- Left Side - Chat -->
+    <div class="chat-section">
+      <div class="chat-header">
+        <h1 class="title">Mesmer</h1>
+      </div>
+      <div class="conversation">
+        <div id="chatBox"></div>
+      </div>
+      <div class="text-input-container">
+        <input type="text" id="textInput" placeholder="Type your message..." />
+        <button id="sendBtn">Send</button>
+      </div>
+    </div>
+
+    <!-- Right Side - Blob Interface -->
+    <div class="blob-section">
+      <div class="mode-toggle">
+        <label class="switch">
+          <input type="checkbox" id="modeSwitch">
+          <span class="slider"></span>
+        </label>
+        <p id="modeLabel">Homie Mode</p>
+      </div>
+      
+      <div class="blob-container">
+        <div class="mic-blob" id="micBlob"></div>
+        <p class="blob-text">Say hi to Mesmer</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/js/app.js"></script>
+  <script src="/static/js/blob-interface.js"></script>
+</body>
+</html>
