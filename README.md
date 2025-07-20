@@ -1,6 +1,6 @@
 Mesmer: AI Voice Assistant
 
-Mesmer is a next-gen conversational AI that acts as your homie or therapist — built with Flask, Fine-tuned LLM (Phi-2), Speech-to-Text, and Text-to-Speech. It provides voice interaction, mode switching, and runs locally on GPU for blazing-fast inference.
+Mesmer is a next-gen conversational AI that acts as your homie or therapist — built with Flask, Fine-tuned LLM (Phi-2)   , Speech-to-Text, and Text-to-Speech. It provides voice interaction, mode switching, and runs locally on GPU for blazing-fast inference.
 
 
 ---
