@@ -14,7 +14,7 @@ Runs on Microsoft Phi-2, fine-tuned for friendly & therapeutic conversations.
 
 Dual Personality Modes
 
-homie → Gen-Z friendly bestie with humor.
+homie → Gen-Z friendly homeboy with humor.
 
 therapist → Empathetic, calm mental-health support tone.
 
