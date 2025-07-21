@@ -5,7 +5,7 @@ Mesmer is a next-gen conversational AI that acts as your homie or therapist — 
 
 ---
 
-✅ Features
+ Features
 
 Fine-Tuned AI Model
 
