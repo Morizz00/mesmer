@@ -61,13 +61,14 @@ TTS: ElevenLabs
 Frontend: HTML, CSS, JavaScript
 
 Hardware: NVIDIA RTX 4050 (GPU inference)
+
 (Additional features are yet to be added using Golang and Rust right now its mostly unused)
 
 
 
 ---
 
-📂 Project Structure
+ Project Structure
 
 mesmer/
 ├── app.py                   # Flask server
@@ -89,7 +90,7 @@ mesmer/
 
 ---
 
-🔑 Environment Variables
+ Environment Variables
 
 Create a .env file in the root:
 
@@ -101,7 +102,7 @@ DEFAULT_MODE=homie
 
 ---
 
-🚀 Setup & Run
+ Setup & Run
 
 1. Clone Repo
 
@@ -130,7 +131,7 @@ http://127.0.0.1:5000
 
 ---
 
-🖥 GPU Acceleration
+ GPU Acceleration
 
 Ensure you have:
 
@@ -144,20 +145,20 @@ pip install torch --index-url https://download.pytorch.org/whl/cu121
 
 ---
 
-🔮 Future Roadmap
+ Future Roadmap
 
-✅ Add Whisper for STT fallback
+ Add Whisper for STT fallback
 
-✅ Mobile-first UI redesign
+ Mobile-first UI redesign
 
-✅ Memory persistence for long conversations
+ Memory persistence for long conversations
 
-✅ Deploy on Docker
+ Deploy on Docker
 
 
 
 ---
 
-📜 License
+ License
 
 MIT License. Free to use & modify.
